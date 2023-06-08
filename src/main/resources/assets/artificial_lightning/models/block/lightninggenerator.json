@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "artificial_lightning:blocks/lightning_gen_side",
+    "up": "artificial_lightning:blocks/lightning_gen_top",
+    "north": "artificial_lightning:blocks/lightning_gen_side",
+    "east": "artificial_lightning:blocks/lightning_gen_side",
+    "south": "artificial_lightning:blocks/lightning_gen_side",
+    "west": "artificial_lightning:blocks/lightning_gen_side",
+    "particle": "artificial_lightning:blocks/lightning_gen_side"
+  }
+}

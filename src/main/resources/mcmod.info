@@ -1,0 +1,20 @@
+[
+  {
+    "modid": "artificial_lightning",
+    "name": "Artificial Lightning",
+    "description": "The heavens are dead, and the yellow sky stands tall. At the age of Jia Zi, the world is in good fortune. The King Of Thunder!~",
+    "version": "0.1.0",
+    "credits": "MCreator, Ojng Studios",
+    "logoFile": "",
+    "mcversion": "1.12.2",
+    "url": "https://github.com/Ojng-Studios/ArtificialLightningMod",
+    "updateUrl": "",
+    "authorList": [
+      "BunnimimiTotem"
+    ],
+    "dependencies": [],
+    "dependants": [],
+    "requiredMods": [],
+    "useDependencyInformation": "true"
+  }
+]

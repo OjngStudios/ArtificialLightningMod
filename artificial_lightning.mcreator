@@ -1,0 +1,95 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "LightninggeneratorRedstoneOn",
+      "type": "procedure",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightninggenerator_redstone_on",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Lightninggenerator",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightninggenerator"
+    },
+    {
+      "name": "Lightninggenerator1",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightninggenerator_1"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "ru_ru": {
+      "tile.lightninggenerator.name": "Молниегенератор"
+    },
+    "zh_tw": {
+      "tile.lightninggenerator.name": "雷電發生器"
+    },
+    "en_us": {
+      "tile.lightninggenerator.name": "Lightning Generator"
+    },
+    "zh_cn": {
+      "tile.lightninggenerator.name": "闪电生成器"
+    },
+    "ja_jp": {
+      "tile.lightninggenerator.name": "雷発生器"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "artificial_lightning",
+    "modName": "Artificial Lightning",
+    "version": "0.1.0",
+    "description": "The heavens are dead, and the yellow sky stands tall. At the age of Jia Zi, the world is in good fortune. The King Of Thunder!~",
+    "author": "BunnimimiTotem",
+    "websiteURL": "https://github.com/Ojng-Studios/ArtificialLightningMod",
+    "license": "GNU General Public License version 2 (GPLv2)",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.12.2",
+    "credits": "MCreator, Ojng Studios",
+    "modElementsPackage": "io.github.busituteng.artificiallightning",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}
