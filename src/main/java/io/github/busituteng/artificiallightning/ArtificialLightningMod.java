@@ -45,7 +45,7 @@ import java.util.function.Supplier;
 @Mod(modid = ArtificialLightningMod.MODID, version = ArtificialLightningMod.VERSION)
 public class ArtificialLightningMod {
 	public static final String MODID = "artificial_lightning";
-	public static final String VERSION = "0.1.0";
+	public static final String VERSION = "0.2.0";
 	public static final SimpleNetworkWrapper PACKET_HANDLER = NetworkRegistry.INSTANCE.newSimpleChannel("artificial_lightni:a");
 	@SidedProxy(clientSide = "io.github.busituteng.artificiallightning.ClientProxyArtificialLightningMod", serverSide = "io.github.busituteng.artificiallightning.ServerProxyArtificialLightningMod")
 	public static IProxyArtificialLightningMod proxy;
